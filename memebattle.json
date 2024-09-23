@@ -1,0 +1,20 @@
+{
+    "name":"Meme Battle",
+    "tokens":[
+         {
+            "symbol":"TWHALE",
+            "address":"TVx8q2U4QLnXHC3xBvLggMfxGEikrWK8Wh",
+            "chainId":1,
+            "decimals":18,
+            "name":"Meme Battle",
+            "logoURI":"https://storage.yandexcloud.net/staticfiles/trxsol.png"
+        }
+   ],
+    "logoURI":"https://justswap.io/favicon.ico",
+    "version":{
+        "patch":0,
+        "major":1,
+        "minor":0
+    },
+    "timestamp":1611147166000
+}
