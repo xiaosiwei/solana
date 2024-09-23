@@ -1,20 +1,28 @@
 {
-    "name":"Meme Battle",
+    "name":"MeMe Battle",
     "tokens":[
          {
-            "symbol":"TWHALE",
-            "address":"TVx8q2U4QLnXHC3xBvLggMfxGEikrWK8Wh",
+            "symbol":"OCTO",
+            "address":"TTCNKC5WjphiZsUP28g2uzgJEoc6qERgC2",
             "chainId":1,
-            "decimals":18,
-            "name":"Meme Battle",
-            "logoURI":"https://storage.yandexcloud.net/staticfiles/trxsol.png"
+            "decimals":6,
+            "name":"OCTO",
+            "logoURI":"https://github.com/xiaosiwei/solana/blob/main/octo.png"
+        },
+        {
+            "symbol":"jUSDT",
+            "address":"TXJgMdjVX5dKiQaUi9QobwNxtSQaFqccvd",
+            "chainId":1,
+            "decimals":8,
+            "name":"jUSDT Token",
+            "logoURI":"https://github.com/xiaosiwei/solana/blob/main/jUSDT.png"
         }
    ],
     "logoURI":"https://justswap.io/favicon.ico",
     "version":{
         "patch":0,
         "major":1,
-        "minor":0
+        "minor":1
     },
-    "timestamp":1611147166000
+    "timestamp":1727108701673
 }
