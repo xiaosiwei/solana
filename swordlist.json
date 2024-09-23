@@ -10,11 +10,11 @@
             "logoURI":"https://github.com/xiaosiwei/solana/blob/main/octo.png"
         },
         {
-            "symbol":"jUSDT Token",
+            "symbol":"jUSDT",
             "address":"TXJgMdjVX5dKiQaUi9QobwNxtSQaFqccvd",
             "chainId":1,
             "decimals":8,
-            "name":"jUSDT",
+            "name":"jUSDT Token",
             "logoURI":"https://github.com/xiaosiwei/solana/blob/main/jUSDT.png"
         }
    ],
