@@ -1,13 +1,21 @@
 {
-    "name":"Meme Battle",
+    "name":"OCTO",
     "tokens":[
          {
-            "symbol":"jUSDT",
+            "symbol":"OCTO",
+            "address":"TTCNKC5WjphiZsUP28g2uzgJEoc6qERgC2",
+            "chainId":1,
+            "decimals":18,
+            "name":"OCTO",
+            "logoURI":"https://github.com/xiaosiwei/solana/blob/main/octo.png"
+        },
+        {
+            "symbol":"jUSDT Token",
             "address":"TXJgMdjVX5dKiQaUi9QobwNxtSQaFqccvd",
             "chainId":1,
             "decimals":18,
-            "name":"jUSDT Token",
-            "logoURI":"https://storage.yandexcloud.net/staticfiles/trxsol.png"
+            "name":"jUSDT",
+            "logoURI":"https://github.com/xiaosiwei/solana/blob/main/jUSDT.png"
         }
    ],
     "logoURI":"https://justswap.io/favicon.ico",
@@ -16,5 +24,5 @@
         "major":1,
         "minor":0
     },
-    "timestamp":1611147166000
+    "timestamp":1727108701673
 }
