@@ -4,7 +4,7 @@
          {
             "symbol":"OCTO",
             "address":"TTCNKC5WjphiZsUP28g2uzgJEoc6qERgC2",
-            "chainId":728126428,
+            "chainId":1,
             "decimals":6,
             "name":"OCTO",
             "logoURI":"https://github.com/xiaosiwei/solana/blob/main/octo.png"
@@ -12,7 +12,7 @@
         {
             "symbol":"jUSDT",
             "address":"TXJgMdjVX5dKiQaUi9QobwNxtSQaFqccvd",
-            "chainId":728126428,
+            "chainId":1,
             "decimals":8,
             "name":"jUSDT Token",
             "logoURI":"https://github.com/xiaosiwei/solana/blob/main/jUSDT.png"
