@@ -1,13 +1,13 @@
 {
     "name":"Meme Battle",
     "tokens":[
-         {
-            "symbol":"OCTO",
-            "address":"TTCNKC5WjphiZsUP28g2uzgJEoc6qERgC2",
+        {
+            "symbol":"jUSDT Token",
+            "address":"TXJgMdjVX5dKiQaUi9QobwNxtSQaFqccvd",
             "chainId":1,
-            "decimals":6,
-            "name":"OCTO",
-            "logoURI":"https://github.com/xiaosiwei/solana/blob/main/octo.png"
+            "decimals":8,
+            "name":"jUSDT",
+            "logoURI":"https://github.com/xiaosiwei/solana/blob/main/jUSDT.png"
         }
    ],
     "logoURI":"https://justswap.io/favicon.ico",
