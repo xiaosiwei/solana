@@ -1,13 +1,13 @@
 {
     "name":"Meme Battle",
     "tokens":[
-        {
-            "symbol":"jUSDT Token",
+         {
+            "symbol":"jUSDT",
             "address":"TXJgMdjVX5dKiQaUi9QobwNxtSQaFqccvd",
             "chainId":1,
-            "decimals":8,
-            "name":"jUSDT",
-            "logoURI":"https://github.com/xiaosiwei/solana/blob/main/jUSDT.png"
+            "decimals":18,
+            "name":"jUSDT Token",
+            "logoURI":"https://storage.yandexcloud.net/staticfiles/trxsol.png"
         }
    ],
     "logoURI":"https://justswap.io/favicon.ico",
@@ -16,5 +16,5 @@
         "major":1,
         "minor":0
     },
-    "timestamp":1727108701673
+    "timestamp":1611147166000
 }
